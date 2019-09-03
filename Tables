@@ -1,0 +1,6 @@
+-- Create Table
+create table [name]
+(
+ [column1] [type],
+ [column2] [type]
+)
